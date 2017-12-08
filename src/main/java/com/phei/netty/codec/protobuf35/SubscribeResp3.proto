@@ -1,0 +1,10 @@
+syntax = "proto3";
+package netty;
+option java_package = "com.phei.netty.codec.protobuf35";
+option java_outer_classname="SubscribeRespProto";
+
+message SubscribeReq{
+	int32 subReqID = 1;
+	int32 respCode = 2;
+	string desc = 3;
+}

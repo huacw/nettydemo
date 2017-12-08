@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jibx.config.3rdparty.org.eclipse:org.eclipse.core.contenttype:3.4.100.v20110423-0524">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.contenttype/3.4.100.v20110423-0524/org.eclipse.core.contenttype-3.4.100.v20110423-0524.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.contenttype/3.4.100.v20110423-0524/org.eclipse.core.contenttype-3.4.100.v20110423-0524-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/config/3rdparty/org/eclipse/org.eclipse.core.contenttype/3.4.100.v20110423-0524/org.eclipse.core.contenttype-3.4.100.v20110423-0524-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

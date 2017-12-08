@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jibx.config.3rdparty.org.eclipse:org.eclipse.jdt.core:3.7.0.v_B61">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/config/3rdparty/org/eclipse/org.eclipse.jdt.core/3.7.0.v_B61/org.eclipse.jdt.core-3.7.0.v_B61.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/config/3rdparty/org/eclipse/org.eclipse.jdt.core/3.7.0.v_B61/org.eclipse.jdt.core-3.7.0.v_B61-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jibx/config/3rdparty/org/eclipse/org.eclipse.jdt.core/3.7.0.v_B61/org.eclipse.jdt.core-3.7.0.v_B61-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
